@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-visualisation",
+  "version": "1.0.0",
+  "description": "Blockchain visualisation done in Javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmkoBass/Blockchain-Visualisation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmkoBass/Blockchain-Visualisation/issues"
+  },
+  "homepage": "https://github.com/OmkoBass/Blockchain-Visualisation#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
+}
