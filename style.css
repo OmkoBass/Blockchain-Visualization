@@ -38,6 +38,18 @@ svg {
   margin-top: 1em;
 }
 
+.block-div:hover {
+  cursor: pointer;
+}
+
+.block-div-valid {
+  background-color: #8ce99a;
+}
+
+.block-div-invalid {
+  background-color: #ff8787;
+}
+
 .transaction-div {
   display: flex;
   flex-direction: column;
